@@ -1,0 +1,53 @@
+[
+	{
+		"name": "Oats with peanut butter and whey protein",
+		"ingredients": [
+			{
+				"name": "oats",
+				"quantity": "5 tbsp"
+			},
+			{
+				"name": "peanut butter",
+				"quantity": "1 tbsp"
+			},
+			{
+				"name": "whey protein",
+				"quantity": "1 scoop"
+			}
+		]
+	},
+	{
+		"name": "Tuna with brown rice and canned vegetables",
+		"ingredients": [
+			{
+				"name": "tuna",
+				"quantity": "1 can"
+			},
+			{
+				"name": "canned vegetables",
+				"quantity": "0.5 can"
+			},
+			{
+				"name": "brown rice, cooked",
+				"quantity": "100 g"
+			}
+		]
+	},
+	{
+		"name": "Chicken breast with brown rice and canned vegetables",
+		"ingredients": [
+			{
+				"name": "cooked chicken breast",
+				"quantity": "0.5"
+			},
+			{
+				"name": "brown rice, cooked",
+				"quantity": "100g"
+			},
+			{
+				"name": "canned vegetables",
+				"quantity": "0.5 can"
+			}
+		]
+	}
+]
