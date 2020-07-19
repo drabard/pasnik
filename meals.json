@@ -1,6 +1,7 @@
 [
 	{
-		"name": "Oats with peanut butter and whey protein",
+		"name": "Oats with peanut butter and honey",
+		"weight": 0.5,
 		"ingredients": [
 			{
 				"name": "oats",
@@ -11,8 +12,8 @@
 				"quantity": "1 tbsp"
 			},
 			{
-				"name": "whey protein",
-				"quantity": "1 scoop"
+				"name": "honey",
+				"quantity": "1 tsp"
 			}
 		]
 	},
@@ -34,11 +35,12 @@
 		]
 	},
 	{
-		"name": "Chicken breast with brown rice and canned vegetables",
+		"name": "Meat with brown rice and canned vegetables",
+		"weight": 0.5,
 		"ingredients": [
 			{
-				"name": "cooked chicken breast",
-				"quantity": "0.5"
+				"name": "meat",
+				"quantity": "1 portion"
 			},
 			{
 				"name": "brown rice, cooked",
@@ -47,6 +49,128 @@
 			{
 				"name": "canned vegetables",
 				"quantity": "0.5 can"
+			}
+		]
+	},
+	{
+		"name": "Meat with frozen vegetables and ajvar",
+		"ingredients": [
+			{
+				"name": "meat",
+				"quantity": "1 portion"
+			},
+			{
+				"name": "canned vegetables",
+				"quantity": "1 pack"
+			},
+			{
+				"name": "ajvar",
+				"quantity": "2 tbsp"
+			}
+		]
+	},
+	{
+		"name": "Greek salad",
+		"ingredients": [
+			{
+				"name": "fresh vegetables",
+				"quantity": "3 portion"
+			},
+			{
+				"name": "feta cheese",
+				"quantity": "135 g"
+			},
+			{
+				"name": "olive oil",
+				"quantity": "1 tbsp"
+			},
+			{
+				"name": "sunflower seeds",
+				"quantity": "2 tbsp"
+			}
+		]
+	},
+	{
+		"name": "Meat salad",
+		"ingredients": [
+			{
+				"name": "fresh vegetables",
+				"quantity": "3 portion"
+			},
+			{
+				"name": "meat",
+				"quantity": "1 portion"
+			},
+			{
+				"name": "olive oil",
+				"quantity": "1 tbsp"
+			}			
+		]
+	},
+	{
+		"name": "Omelett with oats and tomatoes",
+		"ingredients": [
+			{
+				"name": "butter",
+				"quantity": "15 g"
+			},
+			{
+				"name": "eggs",
+				"quantity": "2"
+			},
+			{
+				"name": "oats",
+				"quantity": "4 tbsp"
+			},
+			{
+				"name": "tomato",
+				"quantity": "1"
+			}	]
+	},
+	{
+		"name": "Peanuts and other nuts",
+		"ingredients": [
+			{
+				"name": "peanuts",
+				"quantity": "35 g"
+			},
+			{
+				"name": "other nuts",
+				"quantity": "35 g"
+			}
+		]
+	},
+	{
+		"name": "Banana protein shake",
+		"ingredients": [
+			{
+				"name": "banana",
+				"quantity": "1"
+			},
+			{
+				"name": "whey protein",
+				"quantity": "1 scoop"
+			},
+			{
+				"name": "milk",
+				"quantity": "400 ml"
+			}
+		]
+	},
+	{
+		"name": "Roasted meat with zucchini",
+		"ingredients": [
+			{
+				"name": "meat",
+				"quantity": "1 portion"
+			},
+			{
+				"name": "zucchini",
+				"quantity": "0.5"
+			},
+			{
+				"name": "sunflower seeds",
+				"quantity": "2 tbsp"
 			}
 		]
 	}
